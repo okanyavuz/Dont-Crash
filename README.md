@@ -1,5 +1,7 @@
 # Endless Car Racing Game
 
+## Game Objective
+
 This project encompasses a simple game that allows players to drive a car endlessly on a road.
 
 ## Features
